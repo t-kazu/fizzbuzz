@@ -1,4 +1,4 @@
-require "../role_play.rb"
+require "./role_play.rb"
 
 # describe: （RSpec.describe）はテストをグループ化
 # it: 単体テスト

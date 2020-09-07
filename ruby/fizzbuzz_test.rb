@@ -1,4 +1,4 @@
-require "../fizzbuzz.rb"
+require "./fizzbuzz.rb"
 
 # こちらはテストコードを書くファイルです。プログラムは fizzbuzz.rb に書きます
 
@@ -19,10 +19,4 @@ RSpec.describe 'Fizzbazz Test' do
   it "{テストしたいことを書く}" do
   end
 end
-
-
-
-
-
-
 
